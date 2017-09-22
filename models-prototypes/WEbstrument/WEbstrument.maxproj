@@ -1,8 +1,8 @@
 {
 	"name" : "WEbstrument",
 	"version" : 1,
-	"creationdate" : -712772106,
-	"modificationdate" : 3587172985,
+	"creationdate" : -712772227,
+	"modificationdate" : 3588885100,
 	"viewrect" : [ 25.0, 70.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -12,8 +12,12 @@
 		"patchers" : 		{
 			"WEbstrument.maxpat" : 			{
 				"kind" : "patcher",
-				"local" : 1,
-				"toplevel" : 1
+				"local" : 1
+			}
+,
+			"WEbstrument-bell.maxpat" : 			{
+				"kind" : "patcher",
+				"local" : 1
 			}
 ,
 			"yafr2.maxpat" : 			{
